@@ -14,14 +14,15 @@
 ## Dataset
 - Source: Kaggle – Zepto Inventory Dataset
 - The dataset contains information about:
--- Product Name
--- Category
--- MRP
--- Selling Price
--- Discount
--- Available Quantity
--- Weight
--- Stock Status
+  - Category
+  - name
+  - mrp
+  - discountPercent
+  - availableQuantity
+  - discountedSellingPrice
+  - weightInGms
+  - outOfStock
+  - quantity
   
 ## SQL Concepts Used
 - Data Exploration
@@ -32,11 +33,11 @@
 - ORDER BY
 - Logical Operators
 - Aggregate Functions
--- COUNT()
--- SUM()
--- AVG()
--- MIN()
--- MAX()
+  - COUNT()
+  - SUM()
+  - AVG()
+  - MIN()
+  - MAX()
 - GROUP BY
 - HAVING
 - CASE Statements
