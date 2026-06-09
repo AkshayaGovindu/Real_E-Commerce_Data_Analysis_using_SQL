@@ -83,6 +83,6 @@
 - Inventory Analysis
 - Revenue Estimation
 - Data Interpretation
-- 
+  
 ## Dataset Source
 Zepto Inventory Dataset from Kaggle.
